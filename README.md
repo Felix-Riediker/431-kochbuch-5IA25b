@@ -24,7 +24,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Simon    | Fajitas                      |
 | Tset     | Chicken Fried Rice           |
 | Rico     | Kaiserschmarrn               |
-| Ranja    | Ofenlachs mit Kartoffeln     |
+| Ranja    | Ofenlachs    |
 | Jakub    | Schoko-Tassenkuchen          |
 | Roksana  | Pfannkuchen                  |
 | Tim      | Spaghetti Bolognese          |
