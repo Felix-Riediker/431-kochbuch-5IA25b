@@ -1,14 +1,14 @@
 ---
 # ── Basis ────────────────────────────────────────────────
 title: "Cremige Pasta mit Steak"
-date: 2026-06-18
+date: 2026-06-25
 draft: false
 description: "Cremige Nudeln, saftiges Steak und eine wunderbare Weissweinsauce kombiniert für einen wunderbaren Bissen."
 image: "images/recipes/Nudeln_mit_steak.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Nudeln", "Hauptgericht","Fleisch","alkoholhaltig"]
-tags: ["Rind", "Wein", "Nicht Vegan", "wochentagsessen"]
+tags: ["rind", "wein", "nicht vegan", "wochentagsessen"]
 contributors: ["Felix Riediker"]
 difficulty: "Medium"
 
@@ -23,7 +23,7 @@ ingredients:
   - "Olivenöl"
   - "2 Rindsentrecôtes (je ca. 200 g)"
   - "¼ TL Salz"
-  - " wenig Pfeffer"
+  - "wenig Pfeffer"
   - "1 Zwiebel, halbiert, in feinen Streifen"
   - "2 dl Saucen-Halbrahm"
   - "2 Zweiglein Thymian, Blättchen abgezupft"
