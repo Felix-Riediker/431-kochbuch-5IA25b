@@ -30,7 +30,7 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Pasta im siedenden Salzwasser weich kochen. Pasta abtropfen, dabei ca. 2 dl Kochwasser behalten, beiseitestellen."
+  - "Pasta im siedenden Salzwasser weich kochen. Pasta abtropfen, dabei ca. 2 dl Kochwasser behalten und beiseitestellen."
   - "Entrecô0te Wenig Öl in einer Bratpfanne erhitzen. Fleisch würzen, beidseitig je ca. 2 Min. braten. Aus Pfanne nehmen, Fleisch zugedeckt ca. 5 Min. ruhen lassen. Hitze reduzieren, Bratfett auftupfen, wenig Öl in dieselbe Pfanne geben."
   - "Sauce Zwiebel beigeben, ca. 3 Min. andämpfen. Wein dazugiessen, Bis nur die Hälfte der Flüssigkeit vorhanden ist kochen
    Saucen-Halbrahm, Thymian und beiseitegestelltes Kochwasser beigeben, aufkochen. Hitze reduzieren, Pasta beigeben, mischen, heiss werden
