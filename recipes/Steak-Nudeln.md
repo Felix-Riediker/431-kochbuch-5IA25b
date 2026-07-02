@@ -7,7 +7,7 @@ description: "Kombiniert Cremige Nudeln, saftiges Steak und eine wunderbare Weis
 image: "images/recipes/Nudeln_mit_steak.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
-categories: ["Nudeln", "Hauptgericht","Fleisch","alkoholhaltig"]
+categories: ["Nudeln", "Hauptgericht","Fleisch","Alkoholhaltig"]
 tags: ["rind", "wein", "nicht vegan", "wochentagsessen"]
 contributors: ["Felix Riediker"]
 difficulty: "Medium"
