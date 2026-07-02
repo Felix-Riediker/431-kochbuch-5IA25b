@@ -3,7 +3,7 @@
 title: "Cremige Pasta mit Steak"
 date: 2026-06-25
 draft: false
-description: "Kombiniert Cremige Nudeln, saftiges Steak und eine wunderbare Weissweinsauce für einen wunderbaren Bissen."
+description: "Kombiniert cremige Nudeln, saftiges Steak und eine wunderbare Weissweinsauce für einen wunderbaren Bissen."
 image: "images/recipes/Nudeln_mit_steak.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
