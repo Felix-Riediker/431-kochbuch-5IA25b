@@ -38,7 +38,7 @@ instructions:
   - "Anrichten Pasta auf Tellern anrichten. Entrecôte tranchieren, darauf verteilen."
 ---
 
-> «Perfect um bekannte zu beeindrucken.» — Felix
+> «Perfekt um bekannte zu beeindrucken.» — Felix
 
 ## Über dieses Rezept
 
