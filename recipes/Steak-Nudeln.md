@@ -42,7 +42,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Ein auf dem pappir simples rezept das aber gleichzeiget wunderbar aussieht und auch so schmekt.
+Ein auf dem Papier simples Rezept, welches aber gleichzeitig wunderbar aussieht und auch so schmekt.
 
 ## Tipps
 
