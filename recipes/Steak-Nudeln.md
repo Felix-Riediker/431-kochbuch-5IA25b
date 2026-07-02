@@ -46,7 +46,7 @@ Ein auf dem Papier simples Rezept, welches aber gleichzeitig wunderbar aussieht 
 
 ## Tipps
 
-- das einzig wichtige ist das man alle seine zutaten for dem kochen bereit hat
+- Das einzig wichtige ist, dass man alle seine Zutaten for dem Kochen bereit hat.
 
 ## Serviervorschläge
 
